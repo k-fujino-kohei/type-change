@@ -6,6 +6,9 @@ version = "0.1.0"
 edition = "2018"
 keywords = ["derive", "from"]
 categories = ["development-tools", "development-tools::procedural-macro-helpers"]
+readme = "README.md"
+license-file = "LICENSE"
+repository = "https://github.com/k-fujino-kohei/type-change"
 
 [dependencies]
 syn = "1.0.74"
